@@ -1,0 +1,9 @@
+Joao;35;acgtacgtcgtacgtacgtacgtacgtacgtacgtacgtacgt
+Maria;20;tgcatgcatgcatgggtaccatgcatgcatgcatgcatgcatgcatgcatgca
+Jose;28;gctagctagctagctagctagctagctagctagctagctagc
+Ana;28;gctagctagctacatgggtacgctagctagctagctagctagctagctagc
+fim
+catgggtac;hemofilia
+ctag;gripe
+tgggta;hepatite A
+tgggtacc;hepatite B
